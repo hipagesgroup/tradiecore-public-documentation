@@ -19,6 +19,12 @@ EXAMPLE: Since the search-bar is at the top of the topic page, it will be listed
 
 /*==Topic General Styles==*/
 
+@font-face 
+{
+	font-family: 'Segoe UI';
+	src: url(../Fonts/segoeui.ttf);
+}
+
 body
 {
 	color: #404040;

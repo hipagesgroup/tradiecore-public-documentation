@@ -1408,6 +1408,7 @@ div.central-dropdown-content > a:hover
 ul.menu._Skins_SideMenu.mc-component
 {
 	color: #000000;
+	font-family: 'Segoe UI';
 	font-size: 13px;
 	font-weight: normal;
 	font-style: normal;
@@ -1430,6 +1431,7 @@ ul.menu._Skins_SideMenu.mc-component
 ul.menu._Skins_SideMenu.mc-component a
 {
 	color: #000000;
+	font-family: 'Segoe UI';
 	font-size: 13px;
 	font-weight: normal;
 	font-style: normal;
