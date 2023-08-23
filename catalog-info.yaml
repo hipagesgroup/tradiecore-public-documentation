@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tradiecore-public-documentation
+  description: Tradiecore public documentation
+  annotations:
+    github.com/project-slug: hipagesgroup/tradiecore-public-documentation
+spec:
+  type: service
+  lifecycle: experimental
+  owner: hipages
