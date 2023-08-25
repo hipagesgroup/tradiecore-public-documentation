@@ -25,6 +25,12 @@ EXAMPLE: Since the search-bar is at the top of the topic page, it will be listed
 	src: url(../Fonts/segoeui.ttf);
 }
 
+/*@font-face 
+{
+	font-family: 'Segoe UI';
+	src: url(../Fonts/seguisb.ttf);
+}*/
+
 body
 {
 	color: #404040;
@@ -110,6 +116,8 @@ img	/*Setting max-width: 100%; property makes images always fit the width of the
 {
 	max-width: 100%;
 	padding-top: 6px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 img.thumbnail
@@ -416,7 +424,7 @@ p.Note_Body_Border
 
 p.Tip_Heading
 {
-	
+	font-family: 'Segoe UI';
 }
 
 p.Tip_Body
@@ -434,8 +442,8 @@ p.BodyBeforeList
 	margin-top: 0px;
 	padding-top: 0px;
 	line-height: normal;
-	margin-bottom: 2px;
-	padding-bottom: 3px;
+	margin-bottom: 0px;
+	padding-bottom: 2px;
 }
 
 ul.BulletList
@@ -461,10 +469,10 @@ li.BulletList
 
 b.BodyBold
 {
-	font-weight: normal;
-	font-family: 'Segoe UI Semibold';
 	color: #2B2E3D;
 	font-size: 16px;
+	font-family: 'Segoe UI';
+	font-weight: 600;
 }
 
 img.Intro
@@ -538,5 +546,13 @@ p.Lvl1_BulListLast
 	margin-bottom: 6px;
 	margin-top: 0px;
 	padding-bottom: 3px;
+}
+
+@media print
+{
+	img
+	{
+		mc-popup-height: 170px;
+	}
 }
 

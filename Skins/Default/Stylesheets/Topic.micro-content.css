@@ -442,6 +442,14 @@
 	margin-bottom: 10px;
 }
 
+.micro-response1841958632 .img
+{
+	max-width: 100%;
+	padding-top: 6px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
 .micro-response1841958632 .MCHelpControl-Related .MCHelpControl-RelatedHotSpot_
 {
 	background-position: left;
@@ -624,6 +632,11 @@
 	font-size: 14px;
 }
 
+.micro-response1841958632 .img.imgListImages
+{
+	padding-bottom: 6px;
+}
+
 .micro-response1841958632 .xref
 {
 	text-decoration: none;
@@ -635,17 +648,6 @@
 .micro-response1841958632 .xref:hover
 {
 	color: #19b9f3;
-}
-
-.micro-response1841958632 .img
-{
-	max-width: 100%;
-	padding-top: 6px;
-}
-
-.micro-response1841958632 .img.imgListImages
-{
-	padding-bottom: 6px;
 }
 
 .micro-response1841958632 .dropDownHotspot
