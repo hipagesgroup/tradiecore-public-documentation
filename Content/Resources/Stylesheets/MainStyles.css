@@ -554,5 +554,12 @@ p.Lvl1_BulListLast
 	{
 		mc-popup-height: 170px;
 	}
+
+	img.ListImages
+	{
+		max-height: 170px;
+		mc-popup-height: 0px;
+		mc-popup-width: 50%;
+	}
 }
 
