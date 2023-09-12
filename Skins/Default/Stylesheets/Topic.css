@@ -450,6 +450,61 @@ div.MCBreadcrumbsBox_main-section_0
 	margin-bottom: 0px;
 }
 
+.xref
+{
+	text-decoration: none;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	color: #00B9BD;
+}
+
+.xref:hover
+{
+	color: #19b9f3;
+}
+
+.dropDownHotspot
+{
+	color: #D94567;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	text-decoration: none;
+}
+
+.dropDownHotspot:link
+{
+	color: #D94567;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	text-decoration: none;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-right-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.dropDownHead
+{
+	text-decoration: none;
+}
+
+.img.imgListImages
+{
+	padding-bottom: 6px;
+}
+
 .MCHelpControl-Related .MCHelpControl-RelatedHotSpot_
 {
 	background-position: left;
@@ -630,59 +685,6 @@ div.MCBreadcrumbsBox_main-section_0
 	color: #2b2e3d;
 	font-family: 'Segoe UI';
 	font-size: 14px;
-}
-
-.img.imgListImages
-{
-	padding-bottom: 6px;
-}
-
-.xref
-{
-	text-decoration: none;
-	font-weight: normal;
-	font-family: 'Segoe UI';
-	color: #00B9BD;
-}
-
-.xref:hover
-{
-	color: #19b9f3;
-}
-
-.dropDownHotspot
-{
-	font-weight: bold;
-	color: #D94567;
-	text-decoration: none;
-}
-
-.dropDownHotspot:link
-{
-	font-weight: bold;
-	color: #D94567;
-	text-decoration: none;
-}
-
-.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-down-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-right-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.dropDownHead
-{
-	text-decoration: none;
 }
 
 .MCWebHelpFramesetLink a

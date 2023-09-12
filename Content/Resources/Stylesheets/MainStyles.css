@@ -171,8 +171,9 @@ MadCap|dropDown
 
 MadCap|dropDownHotspot
 {
-	font-weight: bold;
 	color: #D94567;
+	font-weight: normal;
+	font-family: 'Segoe UI';
 }
 
 /*==Master Page Topic Layout==*/
@@ -535,6 +536,7 @@ img.ListImages
 {
 	padding-bottom: 6px;
 	mc-thumbnail-max-height: 170px;
+	mc-thumbnail: popup;
 }
 
 p.Lvl1_BulListLast
@@ -560,6 +562,26 @@ p.Lvl1_BulListLast
 		max-height: 170px;
 		mc-popup-height: 0px;
 		mc-popup-width: 50%;
+	}
+
+	MadCap|dropDownHotspot
+	{
+		font-weight: normal;
+		font-family: 'Segoe UI';
+		color: #D94567;
+	}
+
+	MadCap|dropDownHead
+	{
+		font-weight: normal;
+		color: #D94567;
+	}
+
+	MadCap|dropDown
+	{
+		font-weight: normal;
+		font-family: 'Segoe UI';
+		color: #D94567;
 	}
 }
 

@@ -450,6 +450,61 @@
 	margin-bottom: 0px;
 }
 
+.micro-response1841958632 .xref
+{
+	text-decoration: none;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	color: #00B9BD;
+}
+
+.micro-response1841958632 .xref:hover
+{
+	color: #19b9f3;
+}
+
+.micro-response1841958632 .dropDownHotspot
+{
+	color: #D94567;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	text-decoration: none;
+}
+
+.micro-response1841958632 .dropDownHotspot:link
+{
+	color: #D94567;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	text-decoration: none;
+}
+
+.micro-response1841958632 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.micro-response1841958632 .MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-right-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.micro-response1841958632 .dropDownHead
+{
+	text-decoration: none;
+}
+
+.micro-response1841958632 .img.imgListImages
+{
+	padding-bottom: 6px;
+}
+
 .micro-response1841958632 .MCHelpControl-Related .MCHelpControl-RelatedHotSpot_
 {
 	background-position: left;
@@ -630,59 +685,6 @@
 	color: #2b2e3d;
 	font-family: 'Segoe UI';
 	font-size: 14px;
-}
-
-.micro-response1841958632 .img.imgListImages
-{
-	padding-bottom: 6px;
-}
-
-.micro-response1841958632 .xref
-{
-	text-decoration: none;
-	font-weight: normal;
-	font-family: 'Segoe UI';
-	color: #00B9BD;
-}
-
-.micro-response1841958632 .xref:hover
-{
-	color: #19b9f3;
-}
-
-.micro-response1841958632 .dropDownHotspot
-{
-	font-weight: bold;
-	color: #D94567;
-	text-decoration: none;
-}
-
-.micro-response1841958632 .dropDownHotspot:link
-{
-	font-weight: bold;
-	color: #D94567;
-	text-decoration: none;
-}
-
-.micro-response1841958632 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-down-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.micro-response1841958632 .MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-right-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.micro-response1841958632 .dropDownHead
-{
-	text-decoration: none;
 }
 
 .micro-response1841958632 .MCWebHelpFramesetLink a
