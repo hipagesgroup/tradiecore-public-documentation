@@ -167,6 +167,8 @@ MadCap|dropDown
 {
 	mc-open-image: url('../Images/Assets/Icons/Arrows/arrow-down-gray.png');
 	mc-closed-image: url('../Images/Assets/Icons/Arrows/arrow-right-gray.png');
+	margin-top: 4px;
+	padding-bottom: 4px;
 }
 
 MadCap|dropDownHotspot
@@ -285,19 +287,23 @@ MadCap|relatedTopics
 	color: #2b2e3d;
 	font-family: 'Segoe UI';
 	font-size: 14px;
+	margin-top: 6px;
+	font-weight: normal;
 }
 
 MadCap|relatedTopicsControlList
 {
-	margin-top: 0px;
+	margin-top: 6px;
+	font-family: 'Segoe UI';
 }
 
 MadCap|relatedTopicsControlListItem
 {
 	margin-top: 0px;
-	margin-bottom: 0px;
 	padding-bottom: 0px;
 	padding-top: 0px;
+	font-family: 'Segoe UI';
+	margin-bottom: 2px;
 }
 
 /*===========================================================================================================================================================
@@ -438,13 +444,16 @@ p.Tip_Body
 p.BodyBeforeList
 {
 	color: #2B2E3D;
-	font-family: 'Segoe UI';
 	font-size: 16px;
-	margin-top: 0px;
-	padding-top: 0px;
 	line-height: normal;
-	margin-bottom: 0px;
-	padding-bottom: 2px;
+	padding-bottom: 0px;
+	font-style: normal;
+	font-family: 'Segoe UI';
+	font-weight: normal;
+	margin: 0;
+	padding-top: 2px;
+	margin-bottom: -2px;
+	margin-top: 6px;
 }
 
 ul.BulletList
@@ -453,9 +462,10 @@ ul.BulletList
 	font-size: 16px;
 	line-height: 0px;
 	margin-bottom: 0px;
-	padding-bottom: 4px;
-	padding-top: 0px;
 	margin-top: 2px;
+	padding-top: 0px;
+	margin: 6px 0px 0px;
+	padding-bottom: 0px;
 }
 
 li.BulletList
@@ -473,7 +483,7 @@ b.BodyBold
 	color: #2B2E3D;
 	font-size: 16px;
 	font-family: 'Segoe UI';
-	font-weight: 600;
+	font-weight: bold;
 }
 
 img.Intro
@@ -503,11 +513,11 @@ ol.NumberedList
 {
 	font-family: 'Segoe UI';
 	margin-bottom: 6px;
-	margin-top: 6px;
 	line-height: normal;
 	padding-left: 6px;
 	font-weight: bold;
 	margin-left: 12px;
+	margin-top: 4px;
 }
 
 li.NumberedList
@@ -562,6 +572,9 @@ p.Lvl1_BulListLast
 		max-height: 170px;
 		mc-popup-height: 0px;
 		mc-popup-width: 50%;
+		mc-thumbnail-max-height: 170px;
+		mc-thumbnail: normal;
+		max-width: auto;
 	}
 
 	MadCap|dropDownHotspot
@@ -583,5 +596,91 @@ p.Lvl1_BulListLast
 		font-family: 'Segoe UI';
 		color: #D94567;
 	}
+
+	h2.BodyContent
+	{
+		font-family: 'Segoe UI';
+		font-weight: 600;
+		font-size: 20px;
+		color: #2B2E3D;
+		padding-top: 6px;
+	}
+
+	h3.BodyContent
+	{
+		font-family: 'Segoe UI';
+		font-size: 18px;
+		font-weight: bold;
+		color: #2B2E3D;
+		padding-bottom: 3px;
+	}
+
+	h1.BodyContent
+	{
+		font-family: 'Segoe UI';
+		font-size: 24px;
+	}
+
+	ul.BulletList
+	{
+		margin-left: 19px;
+	}
+
+	MadCap|tocProxy
+	{
+		font-family: 'Segoe UI';
+	}
+
+	p.TOC1
+	{
+		font-family: 'Segoe UI';
+	}
+
+	p.TOC2
+	{
+		font-family: 'Segoe UI';
+	}
+
+	p.TOC3
+	{
+		font-family: 'Segoe UI';
+	}
+
+	h1
+	{
+		font-family: 'Segoe UI';
+	}
+
+	b.BodyBold
+	{
+		font-weight: bold;
+	}
+
+	p.Lvl2_List
+	{
+		font-family: 'Segoe UI';
+	}
+
+	li.NumberedList
+	{
+		font-weight: normal;
+	}
+
+	li.BulletList
+	{
+		font-family: 'Segoe UI';
+		font-weight: normal;
+	}
+}
+
+p.Body_Bottom_Space
+{
+	color: #2B2E3D;
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	line-height: normal;
+	margin: 0;
+	margin-bottom: 6px;
+	padding-bottom: 6px;
 }
 
