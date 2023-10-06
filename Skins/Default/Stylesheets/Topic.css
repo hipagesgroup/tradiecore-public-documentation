@@ -442,14 +442,6 @@ div.MCBreadcrumbsBox_main-section_0
 	margin-bottom: 10px;
 }
 
-.img
-{
-	max-width: 100%;
-	padding-top: 6px;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
-}
-
 .MCHelpControl-Related .MCHelpControl-RelatedHotSpot_
 {
 	background-position: left;
@@ -636,6 +628,27 @@ div.MCBreadcrumbsBox_main-section_0
 	font-weight: normal;
 }
 
+.img
+{
+	max-width: 100%;
+	padding-top: 6px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.xref
+{
+	text-decoration: none;
+	font-weight: normal;
+	font-family: 'Segoe UI';
+	color: #00B9BD;
+}
+
+.xref:hover
+{
+	color: #19b9f3;
+}
+
 .dropDown
 {
 	margin-top: 4px;
@@ -682,19 +695,6 @@ div.MCBreadcrumbsBox_main-section_0
 .img.imgListImages
 {
 	padding-bottom: 6px;
-}
-
-.xref
-{
-	text-decoration: none;
-	font-weight: normal;
-	font-family: 'Segoe UI';
-	color: #00B9BD;
-}
-
-.xref:hover
-{
-	color: #19b9f3;
 }
 
 .MCWebHelpFramesetLink a

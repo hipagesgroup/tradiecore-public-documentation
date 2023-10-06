@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['1'],p:[['1',28],['fierent',19],['prompt',11],['what',8]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['1'],p:[['1',29],['feature',31],['proceed',52],['want',52]]});
