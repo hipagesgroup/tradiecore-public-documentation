@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-au" xml:lang="en-au" class="_Skins_HTML5___Top_Navigation" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-au" xml:lang="en-au" class="_Skins_HTML5___Top_Navigation" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-has-content-body="True" data-mc-toc-path="[%=System.LinkedTitle%]" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -64,6 +64,8 @@
         <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
         </script>
         <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../Resources/Scripts/jquery.rwdImageMaps.min.js">
         </script>
     </head>
     <body>
@@ -146,12 +148,16 @@
                                     <div class="topic-hero">
                                         <div class="topic-layout">
                                             <div>
+                                                <div class="nocontent">
+                                                    <div class="MCBreadcrumbsBox_main-section_0 breadcrumbs" role="navigation" aria-label="Breadcrumbs" data-mc-breadcrumbs-divider=" &gt; " data-mc-breadcrumbs-count="3" data-mc-toc="True"><span class="MCBreadcrumbsPrefix">You are here: </span>
+                                                    </div>
+                                                </div>
                                                 <!-- <MadCap:searchBarProxy data-mc-skin="/Project/Skins/SearchTopic.flskn" />		-->
                                             </div>
                                             <div>
                                                 <div role="main" id="mc-main-content">
                                                     <h1 class="BodyContent">Manual quote actions</h1>
-                                                    <p class="Body">If required, you can carry out several manual actions on a quote such as copying a quote or changing the status of a quote. The manual actions that you can carry out on a quote depends on the status of the quote. You can do the following manual actions for a quote:</p>
+                                                    <p class="Body">If required, you can carry out several manual actions on a quote such as copying a quote or changing the status of a quote. The manual actions that you can carry out on a quote depend on the status of the quote. You can do the following manual actions for a quote:</p>
                                                     <div class="MCDropDown MCDropDown_Closed dropDown"><span class="MCDropDownHead dropDownHead"><a href="#" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage" aria-expanded="false"><img class="MCDropDown_Image_Icon" src="../../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Copying a quote</a></span>
                                                         <div class="MCDropDownBody dropDownBody">
                                                             <p class="BodyBeforeList">To copy a quote,</p>
@@ -160,7 +166,7 @@
                                                                     <p class="Lvl1_NumList">Open the quote from the <b class="BodyBold">Quotes</b> list or, open the quote from the Quotes section of the job with the quote you want to copy. </p>
                                                                 </li>
                                                                 <li class="NumberedList" value="2">
-                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/Button.png" title="More button" style="vertical-align: baseline;" /> and choose <b class="BodyBold">Copy quote</b>. </p>
+                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/QA_Button.png" title="More button" style="vertical-align: baseline;" /> and choose <b class="BodyBold">Copy quote</b>. </p>
                                                                     <p class="Lvl1_NumList"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/Quotes/More_List.png"><img class="MCPopupThumbnail img imgListImages" data-mc-width="1440" data-mc-height="3120" src="../Resources/Images/Quotes/More_List_thumb_0_170.png" title="More actions list" tabindex="" /></a>
                                                                     </p>
                                                                     <p class="Lvl1_NumList">The quote is then copied as a new quote. </p>
@@ -181,7 +187,7 @@
                                                                     <p class="Lvl1_NumList">Open the quote from the <b class="BodyBold">Quotes</b> list or, open the quote from the Quotes section of the job with the quote you want to copy. </p>
                                                                 </li>
                                                                 <li class="NumberedList" value="2">
-                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/Button.png" title="More button" style="vertical-align: baseline;" /> and choose <b class="BodyBold">Convert to invoice</b>. </p>
+                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/QA_Button.png" title="More button" style="vertical-align: baseline;" /> and choose <b class="BodyBold">Convert to Invoice</b>. </p>
                                                                     <p class="Lvl1_NumList"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/Quotes/More_List.png"><img class="MCPopupThumbnail img imgListImages" data-mc-width="1440" data-mc-height="3120" src="../Resources/Images/Quotes/More_List_thumb_0_170.png" title="More actions list" tabindex="" /></a>
                                                                     </p>
                                                                     <p class="Lvl1_NumList">The quote is then converted into a new invoice. </p>
@@ -196,13 +202,14 @@
                                                     </div>
                                                     <div class="MCDropDown MCDropDown_Closed dropDown"><span class="MCDropDownHead dropDownHead"><a href="#" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage" aria-expanded="false"><img class="MCDropDown_Image_Icon" src="../../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Deleting a quote</a></span>
                                                         <div class="MCDropDownBody dropDownBody">
+                                                            <p class="Body">A quote can only be deleted if you have not sent it to a customer. Once you send a quote to a customer, it cannot be deleted from <span class="mc-variable General.ProductName1 variable">Tradiecore</span>.</p>
                                                             <p class="BodyBeforeList">To delete a quote, </p>
                                                             <ol class="NumberedList">
                                                                 <li class="NumberedList" value="1">
                                                                     <p class="Lvl1_NumList">Open the quote from the <b class="BodyBold">Quotes</b> list or, open the quote from the Quotes section of the job with the quote you want to copy. </p>
                                                                 </li>
                                                                 <li class="NumberedList" value="2">
-                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/Button.png" title="More button" style="vertical-align: baseline;" /> and choose <b class="BodyBold">Delete quote</b>. </p>
+                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/QA_Button.png" title="More button" style="vertical-align: baseline;" /> and choose <b class="BodyBold">Delete quote</b>. </p>
                                                                     <p class="Lvl1_NumList"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/Quotes/More_List.png"><img class="MCPopupThumbnail img imgListImages" data-mc-width="1440" data-mc-height="3120" src="../Resources/Images/Quotes/More_List_thumb_0_170.png" title="More actions list" tabindex="" /></a>
                                                                     </p>
                                                                     <p class="Lvl1_NumList">You will be asked to confirm if you want to delete the quote.</p>
@@ -224,7 +231,7 @@
                                                                     <p class="Lvl1_NumList">Open the quote using <b class="BodyBold">Quotes</b> list. </p>
                                                                 </li>
                                                                 <li class="NumberedList" value="2">
-                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/Button.png" title="More button" style="vertical-align: baseline;" /> and to view a list of quick actions. </p>
+                                                                    <p class="Lvl1_NumList">Select <img src="../Resources/Images/Intro&amp;Common Images/QA_Button.png" title="More button" style="vertical-align: baseline;" /> and to view a list of quick actions. </p>
                                                                     <p class="Lvl1_NumList"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/Quotes/Quote_Quick_Actions.png"><img class="MCPopupThumbnail img imgListImages" data-mc-width="1440" data-mc-height="3120" src="../Resources/Images/Quotes/Quote_Quick_Actions_thumb_0_170.png" title="Quick actions menu" tabindex="" /></a>
                                                                     </p>
                                                                     <p class="Lvl1_NumList">The available statuses for quotes are:&#160;</p>
@@ -282,6 +289,8 @@
                                                         </button>
                                                     </div>
                                                 </div>
+                                                <ul class="nocontent menu _Skins_SideMenu mc-component" data-mc-is-context-sensitive="True" data-mc-linked-toc="Data/Tocs/Master.js" data-mc-side-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                                </ul>
                                             </div>
                                         </div>
                                         <div class="footer">
@@ -299,6 +308,7 @@
                                             </table>
                                         </div>
                                     </div>
+                                    <script>/* <![CDATA[ */$('img[usemap]').rwdImageMaps();/* ]]> */</script>
                                 </div>
                             </div>
                         </div>
