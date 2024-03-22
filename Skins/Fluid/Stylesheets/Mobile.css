@@ -206,32 +206,32 @@
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	#resultList .glossary .term a:hover

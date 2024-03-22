@@ -443,6 +443,26 @@ a.glossaryTerm
 	color: #19b9f3;
 }
 
+div.MCBreadcrumbsBox_main-section_0
+{
+	border-bottom: none;
+	font-size: .7em;
+	font-style: italic;
+	border-bottom-width: 1px;
+	border-bottom-style: none;
+	border-bottom-color: black;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.img
+{
+	max-width: 100%;
+	padding-top: 6px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
 .MCHelpControl-Related .MCHelpControl-RelatedHotSpot_
 {
 	background-position: left;
@@ -627,26 +647,6 @@ a.glossaryTerm
 	font-size: 14px;
 	margin-top: 6px;
 	font-weight: normal;
-}
-
-div.MCBreadcrumbsBox_main-section_0
-{
-	border-bottom: none;
-	font-size: .7em;
-	font-style: italic;
-	border-bottom-width: 1px;
-	border-bottom-style: none;
-	border-bottom-color: black;
-	padding-bottom: 10px;
-	margin-bottom: 10px;
-}
-
-.img
-{
-	max-width: 100%;
-	padding-top: 6px;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
 }
 
 .img.imgListImages

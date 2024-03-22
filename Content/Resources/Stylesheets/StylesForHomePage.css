@@ -35,7 +35,7 @@ h1.home
 	color: #ffffff;
 	border-bottom: none;
 	line-height: 1;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 h2
@@ -98,7 +98,7 @@ div.topic-hero > div
 div.search
 {
 	width: 35%;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 div.home-tiles-container
@@ -179,20 +179,23 @@ p.tile-title
 {
 	text-align: center;
 	font-weight: bold;
-	color: #D94567;
+	font-family: Roboto;
+	color: #d94567;
 }
 
 p.tile-subtitle
 {
 	text-align: center;
 	color: #ffffff;
+	font-family: Roboto;
 }
 
 p.tile-content
 {
 	text-align: center;
-	color: #2B2E3D;
 	font-size: 1em;
+	font-family: Roboto;
+	color: #202a3e;
 }
 
 div.home-tiles a	/*Complex Selector: Links within the home tiles will have the following properties*/
@@ -226,7 +229,8 @@ p.footer
 	margin-top: 5px;
 	margin-bottom: 5px;
 	line-height: 13pt;
-	color: #808080;
+	font-family: Roboto;
+	color: #797f8b;
 }
 
 /*===========================================================================================================================================================

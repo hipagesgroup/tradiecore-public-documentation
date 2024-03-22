@@ -94,8 +94,8 @@
 		height: 48px;
 		width: 48px;
 		display: block;
-		background: #d94567 url('Images/Menu.png') no-repeat center center;
-		-pie-background: #d94567 url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: #f16e00 url('Images/Menu.png') no-repeat center center;
+		-pie-background: #f16e00 url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -855,6 +855,7 @@
 
 	ul.off-canvas-list ul > li > a
 	{
+		color: #202a3e;
 		background-color: transparent;
 	}
 
@@ -880,37 +881,38 @@
 
 	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle
 	{
-		border-top-color: #103d78;
+		border-top-color: #8290f3;
 	}
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #dcdcdc;
+		color: #202a3e;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #dcdcdc;
+		background-color: #e8e9eb;
 	}
 
 	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle:hover
@@ -920,7 +922,7 @@
 
 	ul.off-canvas-list li a.selected
 	{
-		
+		color: #202a3e;
 	}
 
 	ul.off-canvas-list ul > li > a.selected

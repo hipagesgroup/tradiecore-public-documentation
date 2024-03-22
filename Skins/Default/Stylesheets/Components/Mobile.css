@@ -266,36 +266,37 @@
 
 	ul.menu._Skins_SideMenu.mc-component li > a:hover
 	{
-		background-color: #f5f5f5;
+		background-color: #E8E9EB;
 	}
 
 	ul.menu._Skins_SideMenu.mc-component ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: #f5f5f5;
+		background-color: #E8E9EB;
 	}
 
 	ul.menu._Skins_SideMenu.mc-component ul ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: #f5f5f5;
+		background-color: #E8E9EB;
 	}
 
 	ul.menu._Skins_SideMenu.mc-component ul ul ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: #f5f5f5;
+		background-color: #E8E9EB;
 	}
 
 	ul.menu._Skins_SideMenu.mc-component ul ul ul ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: #f5f5f5;
+		background-color: #E8E9EB;
 	}
 
 	ul.menu._Skins_SideMenu.mc-component li > a.selected:hover
 	{
-		background-color: #f5f5f5;
+		color: #8290f3;
+		background-color: #E8E9EB;
 	}
 
 	._Skins_SearchTopic.mc-component .search-auto-complete ul

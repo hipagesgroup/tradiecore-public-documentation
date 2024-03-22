@@ -1440,6 +1440,7 @@ ul.menu._Skins_SideMenu.mc-component a
 ul.menu._Skins_SideMenu.mc-component li > a
 {
 	color: #000000;
+	font-family: Roboto;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-top: 0px;
@@ -1492,34 +1493,35 @@ ul.menu._Skins_SideMenu.mc-component li > a.selected
 
 ul.menu._Skins_SideMenu.mc-component li > a:hover
 {
-	color: #000000;
-	background-color: #f5f5f5;
+	color: #8290f3;
+	background-color: #E8E9EB;
 }
 
 ul.menu._Skins_SideMenu.mc-component ul > li > a:hover
 {
-	background-color: #f5f5f5;
+	background-color: #E8E9EB;
 }
 
 ul.menu._Skins_SideMenu.mc-component ul ul > li > a:hover
 {
-	background-color: #f5f5f5;
+	background-color: #E8E9EB;
 }
 
 ul.menu._Skins_SideMenu.mc-component ul ul ul > li > a:hover
 {
-	background-color: #f5f5f5;
+	background-color: #E8E9EB;
 }
 
 ul.menu._Skins_SideMenu.mc-component ul ul ul ul > li > a:hover
 {
-	background-color: #f5f5f5;
+	background-color: #E8E9EB;
 }
 
 ul.menu._Skins_SideMenu.mc-component li > a.selected:hover
 {
+	color: #f16e00;
 	font-weight: bold;
-	background-color: #f5f5f5;
+	background-color: #E8E9EB;
 }
 
 ._Skins_SearchTopic.mc-component .search-auto-complete ul
@@ -1711,6 +1713,7 @@ ul.menu._Skins_SideMenu.mc-component li > a.selected:hover
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
 	color: #5F5F5F;
+	font-family: Roboto;
 	font-size: 1em;
 	padding-left: 10px;
 	background-color: #ffffff;

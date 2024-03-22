@@ -1266,25 +1266,25 @@
 	ul.navigation ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: #5C5C5C;
+		background-color: #E8E9EB;
 	}
 
 	ul.navigation ul ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: #5C5C5C;
+		background-color: #E8E9EB;
 	}
 
 	ul.navigation ul ul ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: #5C5C5C;
+		background-color: #E8E9EB;
 	}
 
 	ul.navigation ul ul ul ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: #5C5C5C;
+		background-color: #E8E9EB;
 	}
 }
 

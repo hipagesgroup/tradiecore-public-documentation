@@ -266,7 +266,7 @@ ul.navigation ul > li > a
 
 ul.navigation ul > li:hover
 {
-	background-color: #5C5C5C;
+	background-color: #E8E9EB;
 }
 
 ul.navigation ul > li.has-children > a:after
@@ -1890,7 +1890,7 @@ h1#results-heading
 
 #resultList h3.title a
 {
-	color: #2B2E3D;
+	color: #8290F3;
 	font-size: 1em;
 }
 
@@ -1908,24 +1908,25 @@ h1#results-heading
 
 #resultList h3.title a:focus
 {
-	color: #00B9BD;
+	color: #8290F3;
 	text-decoration: underline;
 }
 
 #resultList h3.title a:hover
 {
+	color: #F16E00;
 	text-decoration: underline;
 }
 
 #resultList h3.title a:active
 {
-	color: #00B9BD;
+	color: #8290F3;
 	text-decoration: underline;
 }
 
 #resultList .url cite
 {
-	color: #00B9BD;
+	color: #8290F3;
 	font-size: 0.8em;
 	font-style: normal;
 }
@@ -2057,12 +2058,14 @@ ul.sidenav ul ul ul ul > li > a.selected
 
 ul.navigation ul a
 {
+	font-family: Roboto;
 	font-size: 16px;
+	font-weight: bold;
 }
 
 ul.navigation ul ul a
 {
-	
+	font-family: Roboto;
 }
 
 ul.navigation ul ul ul
@@ -2103,31 +2106,35 @@ ul.navigation ul ul ul ul > li > a
 
 ul.navigation li > a:hover
 {
-	color: #55F2BE;
+	color: #00b9bd;
 	font-weight: bold;
 }
 
 ul.navigation li.is-expanded > a
 {
-	color: #55F2BE;
+	color: #00b9bd;
 	font-weight: bold;
 }
 
 ul.navigation ul > li > a:hover
 {
-	color: #55F2BE;
+	color: #00b9bd;
+	font-family: Roboto;
 	font-size: 16px;
+	font-weight: bold;
 }
 
 ul.navigation ul > li.is-expanded > a
 {
-	color: #55F2BE;
+	color: #00b9bd;
+	font-family: Roboto;
 	font-size: 16px;
+	font-weight: bold;
 }
 
 ul.navigation ul ul > li:hover
 {
-	background-color: #5C5C5C;
+	background-color: #E8E9EB;
 }
 
 ul.navigation ul ul > li > a:hover
@@ -2142,7 +2149,7 @@ ul.navigation ul ul > li.is-expanded > a
 
 ul.navigation ul ul ul > li:hover
 {
-	background-color: #5C5C5C;
+	background-color: #E8E9EB;
 }
 
 ul.navigation ul ul ul > li > a:hover
@@ -2157,7 +2164,7 @@ ul.navigation ul ul ul > li.is-expanded > a
 
 ul.navigation ul ul ul ul > li:hover
 {
-	background-color: #5C5C5C;
+	background-color: #E8E9EB;
 }
 
 ul.navigation ul ul ul ul > li > a:hover
