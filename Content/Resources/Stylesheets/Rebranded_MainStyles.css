@@ -481,7 +481,7 @@ p.Body
 	font-size: 16px;
 	line-height: normal;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 p.Lvl1_BulList
@@ -492,7 +492,7 @@ p.Lvl1_BulList
 	margin-top: 0px;
 	padding-bottom: 2px;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 p.Lvl2_List
@@ -508,7 +508,7 @@ p.Body_Indented
 	font-size: 14px;
 	font-weight: normal;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 p.Note_Heading
@@ -521,8 +521,8 @@ p.Note_Heading
 	padding-right: 6px;
 	border-top: solid 1px #f16e00;
 	color: #202A3E;
-	font-weight: bold;
-	font-family: 'Segoe UI Semibold';
+	font-family: Roboto;
+	font-weight: 500;
 }
 
 p.Note_Body_Border
@@ -537,19 +537,19 @@ p.Note_Body_Border
 	line-height: normal;
 	color: #202A3E;
 	border-bottom: solid 1px #f16e00;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 p.Tip_Heading
 {
-	font-family: 'Segoe UI';
+	font-family: 'Roboto Black';
 }
 
 p.Tip_Body
 {
-	font-family: sans-serif;
 	font-size: 14px;
 	color: #202A3E;
+	font-family: Roboto;
 }
 
 p.BodyBeforeList
@@ -563,8 +563,8 @@ p.BodyBeforeList
 	padding-top: 2px;
 	margin-bottom: -2px;
 	color: #202A3E;
-	font-family: 'Segoe UI';
 	margin-top: 4px;
+	font-family: Roboto;
 }
 
 ul.BulletList
@@ -574,19 +574,20 @@ ul.BulletList
 	line-height: 0px;
 	margin-bottom: 0px;
 	margin-top: 2px;
-	padding-top: 0px;
-	margin: 6px 0px 0px;
 	padding-bottom: 0px;
+	margin-left: -17px;
+	margin: 6px 0px 0px -20px;
+	padding-top: 2px;
 }
 
 li.BulletList
 {
-	padding-left: 8px;
 	padding-top: 0px;
 	line-height: normal;
 	margin-bottom: 0px;
 	padding-bottom: 2px;
 	margin-top: 2px;
+	padding-left: 8px;
 }
 
 b.BodyBold
@@ -619,7 +620,7 @@ p.Note_Body
 	margin-bottom: 0px;
 	line-height: normal;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 ol.NumberedList
@@ -654,7 +655,7 @@ p.Lvl1_NumList
 	padding-left: 0px;
 	font-weight: normal;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 img.ListImages
@@ -672,7 +673,7 @@ p.Lvl1_BulListLast
 	margin-top: 0px;
 	padding-bottom: 3px;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 @media print
@@ -696,7 +697,7 @@ p.Lvl1_BulListLast
 	{
 		font-weight: normal;
 		font-family: 'Segoe UI';
-		color: #D94567;
+		color: #F16E00;
 	}
 
 	MadCap|dropDownHead
@@ -818,7 +819,7 @@ p.Body_Bottom_Space
 	margin-bottom: 6px;
 	padding-bottom: 6px;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 img.ListImages_SmallImgs
@@ -845,13 +846,13 @@ p.Lvl1_NumList1_Last
 	margin-bottom: 5px;
 	padding-bottom: 3px;
 	color: #202A3E;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 MadCap|dropDownHotspot.Lvl2
 {
 	font: inherit;
-	color: #2B2E3D;
+	color: #F16E00;
 	font-family: 'Segoe UI';
 	font-weight: normal;
 	font-size: 16px;
@@ -885,7 +886,7 @@ p.FAQ
 	margin-bottom: 0px;
 	margin-top: 4px;
 	margin: 0px;
-	font-family: 'Segoe UI';
+	font-family: Roboto;
 }
 
 h3.BodyContentFAQ
