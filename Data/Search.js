@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,71],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['$20','mediocrem'],p:[['$20',13],['are',58],['converting',30],['faqs',90],['indicates',32],['metrics',51],['percentage',27],['select',32],['the',36],['using',118]]});
+define({r:0.5,st:'Stem',n:1,t:[0,71],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['$20','menu'],p:[['$20',14],['are',58],['converting',35],['feature',14],['indoctum',115],['money',14],['personalise',6],['select',49],['the',43],['values',26]]});
