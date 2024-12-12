@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,70],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['$20','ludus'],p:[['$20',15],['approving',35],['connected',32],['enabled',59],['if',67],['login',81],['or',6],['resolution',13],['tab',8],['to',85],['you',3]]});
+define({r:0.5,st:'Stem',n:1,t:[0,71,155],m:[],u:['../Content/A_Customers/Add_Customer.htm'],s:['$20','it','upgrad'],p:[['$20',16],['any',23],['changes',10],['displayed',82],['have',33],['is',118],['new',6],['phone',15],['section',55],['that',81],['track',46],['you',10]]});
