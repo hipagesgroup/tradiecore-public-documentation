@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,71,155],m:[],u:['../Content/A_Customers/Add_Customer.htm'],s:['$20','it','upload'],p:[['$20',16],['any',16],['changed',6],['displayed',69],['have',24],['is',96],['needs',16],['personalise',6],['section',38],['that',68],['total',33],['you',2]]});
+define({r:0.5,st:'Stem',n:1,t:[0,71,154],m:[],u:['../Content/A_Customers/Add_Customer.htm'],s:['$20','invoic','tradiecor'],p:[['$20',16],['and',132],['centre',6],['disable',16],['given',16],['invoices',19],['more',21],['own',102],['review',15],['such',23],['to',16],['well',61]]});
