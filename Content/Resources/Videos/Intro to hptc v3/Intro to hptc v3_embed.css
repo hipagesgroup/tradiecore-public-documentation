@@ -56,7 +56,7 @@ body
 	.smart-player-embed-iframe:-ms-fullscreen
 	{
 		max-width: auto;
-		max-height: auto %;
+		max-height: auto;
 	}
 }
 
