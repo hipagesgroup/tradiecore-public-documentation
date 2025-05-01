@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,70,154],m:[],u:['../Content/A_Customers/Add_Customer.htm'],s:['$20','if','step'],p:[['$20',15],['and',58],['can',15],['days',67],['field',153],['image',26],['leads',14],['number',9],['please',8],['screen',172],['t',14],['to',15],['want',32],['your',166]]});
+define({r:0.5,st:'Stem',n:1,t:[0,70,155],m:[],u:['../Content/A_Customers/Add_Customer.htm'],s:['$20','if','step'],p:[['$20',15],['and',56],['can',7],['days',14],['field',31],['ikea',15],['leads',9],['now',43],['planned',160],['screen',96],['sync',86],['to',15],['want',30],['your',166]]});
