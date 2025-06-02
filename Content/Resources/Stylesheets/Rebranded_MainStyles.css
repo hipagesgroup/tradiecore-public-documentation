@@ -1054,16 +1054,16 @@ p.ReleaseDateBody
 	color: #202A3E;
 	font-family: Roboto;
 	line-height: 22px;
-	background-color: #e8e9eb;
 	padding-left: 10px;
-	padding-top: 3px;
 	padding-bottom: 3px;
 	margin-top: 11px;
 	border-top-style: solid;
-	border-top: solid 1px #202a3e;
-	margin-bottom: 3px;
-	border-bottom-color: #202a3e;
-	border-bottom: solid 1px #202a3e;
+	margin-bottom: 11px;
+	padding-top: 4px;
+	border-bottom: solid 1px #6e7481;
+	border-bottom-color: #6E7481;
+	border-top: solid 1px #6e7481;
+	background-color: #f2F4fe;
 }
 
 p.Lvl1_NumList_BottomBorder
