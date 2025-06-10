@@ -640,7 +640,9 @@ p.Note_Body_Border
 
 p.Tip_Heading
 {
-	font-family: 'Roboto Black';
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
 }
 
 p.Tip_Body
@@ -1105,5 +1107,31 @@ iframe.horizontal_web
 		left: auto;
 		right: 6px;
 	}
+}
+
+p.EmphasisBlockHeader
+{
+	border-left: solid 4px #f16e00;
+	padding-left: 12px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #202A3E;
+	margin-bottom: 0px;
+	margin-left: 26px;
+	padding-bottom: 4px;
+}
+
+p.EmphasisBlockBody
+{
+	border-left: solid 4px #f16e00;
+	padding-left: 12px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #202A3E;
+	margin-left: 26px;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-bottom: 2px;
+	line-height: 22px;
 }
 

@@ -469,6 +469,88 @@ div.MCBreadcrumbsBox_main-section_0
 	padding-bottom: 6px;
 }
 
+.dropDown
+{
+	margin-top: 4px;
+	padding-bottom: 4px;
+}
+
+.dropDownHotspot
+{
+	font-weight: normal;
+	font-size: 16px;
+	color: #F16E00;
+	font-family: Roboto;
+	text-decoration: none;
+}
+
+.dropDownHotspot:link
+{
+	font-weight: normal;
+	font-size: 16px;
+	color: #F16E00;
+	font-family: Roboto;
+	text-decoration: none;
+}
+
+.dropDownHotspot.dropDownHotspotHeading_2
+{
+	color: #202a3e;
+	font-family: Homie;
+	font-size: 19px;
+	margin-top: 10px;
+}
+
+.dropDownHotspot.dropDownHotspotHeading_2:link
+{
+	color: #202a3e;
+	font-family: Homie;
+	font-size: 19px;
+	margin-top: 10px;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-right-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.dropDownHead
+{
+	text-decoration: none;
+}
+
+.dropDownBody
+{
+	margin-left: 16px;
+}
+
+.dropDownHead.dropDownHeadHeading_2
+{
+	font-family: Homie;
+	font-size: 19px;
+	color: #202a3e;
+}
+
+.img.imgIntro
+{
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	width: 238px;
+	height: 513px;
+}
+
 .MCHelpControl-Related .MCHelpControl-RelatedHotSpot_
 {
 	background-position: left;
@@ -655,33 +737,9 @@ div.MCBreadcrumbsBox_main-section_0
 	font-family: Roboto;
 }
 
-.dropDown
-{
-	margin-top: 4px;
-	padding-bottom: 4px;
-}
-
 .dropDown.dropDownNumList
 {
 	margin-left: 17px;
-}
-
-.dropDownHotspot
-{
-	font-weight: normal;
-	font-size: 16px;
-	color: #F16E00;
-	font-family: Roboto;
-	text-decoration: none;
-}
-
-.dropDownHotspot:link
-{
-	font-weight: normal;
-	font-size: 16px;
-	color: #F16E00;
-	font-family: Roboto;
-	text-decoration: none;
 }
 
 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage.MCDropDownHotSpot_NumList
@@ -698,16 +756,6 @@ div.MCBreadcrumbsBox_main-section_0
 	background-image: url('arrow-right-gray.png');
 	padding-left: 0px;
 	padding-right: 0;
-}
-
-.dropDownHead
-{
-	text-decoration: none;
-}
-
-.dropDownBody
-{
-	margin-left: 16px;
 }
 
 .dropDownHotspot.dropDownHotspotLvl2
@@ -730,22 +778,6 @@ div.MCBreadcrumbsBox_main-section_0
 	font-family: Roboto;
 	display: block;
 	padding-left: 6px;
-}
-
-.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-down-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-right-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
 }
 
 .dropDownHotspot.dropDownHotspotFAQs_Lvl1
@@ -818,22 +850,6 @@ video._0
 	margin-top: 10px;
 }
 
-.dropDownHotspot.dropDownHotspotHeading_2
-{
-	color: #202a3e;
-	font-family: Homie;
-	font-size: 19px;
-	margin-top: 10px;
-}
-
-.dropDownHotspot.dropDownHotspotHeading_2:link
-{
-	color: #202a3e;
-	font-family: Homie;
-	font-size: 19px;
-	margin-top: 10px;
-}
-
 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage.MCDropDownHotSpot_Heading_2
 {
 	background-position: left;
@@ -848,13 +864,6 @@ video._0
 	background-image: url('arrow-right-gray.png');
 	padding-left: 0px;
 	padding-right: 0;
-}
-
-.dropDownHead.dropDownHeadHeading_2
-{
-	font-family: Homie;
-	font-size: 19px;
-	color: #202a3e;
 }
 
 .MCWebHelpFramesetLink a
