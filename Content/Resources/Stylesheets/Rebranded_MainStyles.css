@@ -418,8 +418,8 @@ MadCap|dropDownHotspot.Heading_2
 {
 	color: #202a3e;
 	font-family: Homie;
-	font-size: 19px;
 	margin-top: 10px;
+	font-size: 19px;
 }
 
 MadCap|dropDownHead.Heading_2
@@ -432,6 +432,8 @@ MadCap|dropDownHead.Heading_2
 MadCap|dropDown.Heading_2
 {
 	margin-top: 10px;
+	mc-closed-image: url('../A_Images/Assets/Icons/Arrows/arrow-right-hiOrange.png');
+	mc-open-image: url('../A_Images/Assets/Icons/Arrows/arrow-down-hiOrange.png');
 }
 
 td
