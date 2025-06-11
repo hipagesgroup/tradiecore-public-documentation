@@ -454,6 +454,16 @@ sup
 	font-family: Roboto;
 }
 
+p.ComingUp
+{
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	background-color: #E8E9EB;
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
 [@media tablet] declares styles that will apply when the screen is in tablet view
@@ -832,8 +842,8 @@ p.Lvl1_BulListLast
 
 	h1.BodyContent
 	{
-		font-family: 'Segoe UI';
 		font-size: 24px;
+		font-family: 'Source Sans Pro';
 	}
 
 	ul.BulletList
@@ -863,8 +873,8 @@ p.Lvl1_BulListLast
 
 	h1
 	{
-		font-family: Homie;
 		font-size: 20px;
+		font-family: 'Source Sans Pro';
 	}
 
 	b.BodyBold
@@ -932,6 +942,12 @@ p.Lvl1_BulListLast
 		font-family: Roboto;
 		font-weight: bold;
 		font-size: 14px;
+	}
+
+	p.ComingUp
+	{
+		font-weight: bold;
+		font-size: 16px;
 	}
 }
 
