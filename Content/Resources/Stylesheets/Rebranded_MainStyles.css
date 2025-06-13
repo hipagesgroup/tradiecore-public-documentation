@@ -87,6 +87,7 @@ p
 {
 	margin-bottom: 8px;
 	margin-top: 8px;
+	font-family: Roboto;
 }
 
 .off-canvas-content .main-section > .outer-row	/*removes the padding from the skin*/
@@ -571,16 +572,6 @@ h1.BodyContent
 	font-size: 24px;
 	color: #202A3E;
 	font-family: Homie;
-}
-
-h2.Lvl2_BC
-{
-	font-weight: 500;
-}
-
-h3.Lvl3_BC
-{
-	
 }
 
 p.Body
@@ -1151,5 +1142,11 @@ p.EmphasisBlockBody
 	margin-top: 0px;
 	padding-bottom: 2px;
 	line-height: 22px;
+}
+
+MadCap|dropDownHotspot.BodyContent
+{
+	color: #202A3E;
+	font-weight: bold;
 }
 

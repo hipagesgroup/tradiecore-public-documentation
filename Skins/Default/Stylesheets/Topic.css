@@ -866,6 +866,18 @@ video._0
 	height: 385px;
 }
 
+.dropDownHotspot.dropDownHotspotBodyContent
+{
+	color: #202A3E;
+	font-weight: bold;
+}
+
+.dropDownHotspot.dropDownHotspotBodyContent:link
+{
+	color: #202A3E;
+	font-weight: bold;
+}
+
 .MCWebHelpFramesetLink a
 {
 	
