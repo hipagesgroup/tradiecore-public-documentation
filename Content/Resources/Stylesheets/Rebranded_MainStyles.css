@@ -402,6 +402,7 @@ ul.menu._Skins_SideMenu.mc-component li > a.selected
 MadCap|dropDownBody
 {
 	margin-left: 16px;
+	font-family: Roboto;
 }
 
 iframe
@@ -465,6 +466,11 @@ p.ComingUp
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 	background-color: #E8E9EB;
+}
+
+MadCap|dropDownHead
+{
+	font-family: Roboto;
 }
 
 /*===========================================================================================================================================================
