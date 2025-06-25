@@ -1150,3 +1150,23 @@ MadCap|dropDownHotspot.BodyContent
 	font-weight: bold;
 }
 
+h2.BodyContent_Vids
+{
+	font-size: 19px;
+	font-weight: 600;
+	font-family: Homie;
+	color: #202A3E;
+	margin-bottom: 2px;
+	padding: 2px 0px 0px;
+	padding-top: 4px;
+	margin-top: 12px;
+	border-top: solid 1px #797f8b;
+	border-top-color: #797f8b;
+}
+
+MadCap|dropDown.Vids_Last
+{
+	border-bottom: solid 1px #797f8b;
+	margin-bottom: 6px;
+}
+
