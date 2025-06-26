@@ -64,6 +64,9 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Introduction Topics/Calendar_Navigation.htm</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Introduction Topics/Calendar_Settings.htm</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Introduction Topics/Copy_Sample Landing Topic.htm</loc>
     </url>
     <url>
@@ -1042,6 +1045,15 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/bell_18x19.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Cal_Import_Annot.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Cal_Settings.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Cal_Settings_Popup.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Close_Icon_2.4.png</loc>
     </url>
     <url>
@@ -1070,9 +1082,6 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Email_19x15.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Ext_Cal_Annoted.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/External_Cal_Prompt.png</loc>
@@ -1243,6 +1252,9 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/QA_Button.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Schedule Intro - 2.11.0.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Schedule Intro - 2.9.1.png</loc>
     </url>
     <url>
@@ -1403,6 +1415,9 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Add_D_Cal_STP.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Appointment - 2.11.0.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Appointment - 2.9.1.png</loc>
@@ -1619,6 +1634,9 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Schedule - 2.9.1.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Schedule - 9.11.0.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Send Estimate.png</loc>
