@@ -473,6 +473,47 @@ MadCap|dropDownHead
 	font-family: Roboto;
 }
 
+div.Columns-2	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+	border: none 1px #e8e9eb;
+}
+
+div.Columns-2::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.Columns-2::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.Columns-2 > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.Columns-2 > div:nth-child(1)
+{
+	margin-left: 0%;
+	margin-right: 3px;
+	width: 47%;
+}
+
+div.Columns-2 > div:nth-child(2)
+{
+	margin-left: 3%;
+	width: 47%;
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
 [@media tablet] declares styles that will apply when the screen is in tablet view
@@ -514,6 +555,18 @@ Styles after this point are styles that are for specific mediums. If any additio
 	}
 
 	div.Test2Column > div:nth-child(2)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.Columns-2 > div:nth-child(1)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.Columns-2 > div:nth-child(2)
 	{
 		width: 50%;
 		margin-left: 0%;
@@ -570,6 +623,18 @@ Styles after this point are styles that are for specific mediums. If any additio
 	MadCap|dropDown.Heading_2
 	{
 		margin-top: 10px;
+	}
+
+	div.Columns-2 > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.Columns-2 > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
 	}
 }
 
@@ -823,11 +888,11 @@ p.Lvl1_BulListLast
 
 	h2.BodyContent
 	{
-		font-family: 'Segoe UI';
-		font-weight: 600;
 		font-size: 20px;
 		color: #2B2E3D;
 		padding-top: 6px;
+		font-family: Roboto;
+		font-weight: bold;
 	}
 
 	h3.BodyContent
@@ -837,6 +902,7 @@ p.Lvl1_BulListLast
 		font-weight: bold;
 		color: #2B2E3D;
 		padding-bottom: 3px;
+		padding-top: 3px;
 	}
 
 	h1.BodyContent
@@ -888,13 +954,14 @@ p.Lvl1_BulListLast
 
 	li.NumberedList
 	{
-		font-weight: normal;
+		color: #202a3e;
+		font-weight: bold;
 	}
 
 	li.BulletList
 	{
-		font-family: 'Segoe UI';
 		font-weight: normal;
+		font-family: Roboto;
 	}
 
 	p.Tip_Body
@@ -947,6 +1014,43 @@ p.Lvl1_BulListLast
 	{
 		font-weight: bold;
 		font-size: 16px;
+	}
+
+	ol.NumberedList
+	{
+		color: #202a3e;
+		font-weight: bold;
+	}
+
+	div.Columns-2 > div
+	{
+		position: relative;
+		left: 19px;
+	}
+
+	div.Columns-2 > div:nth-child(1)
+	{
+		float: none;
+		width: 40%;
+		left: ;
+	}
+
+	div.Columns-2 > div:nth-child(2)
+	{
+		float: none;
+		margin-right: 0%;
+		width: 40%;
+		margin-left: 3px;
+	}
+
+	p.Lvl1_NumList
+	{
+		font-weight: normal;
+	}
+
+	p.Lvl1_NumList1_Last
+	{
+		margin-bottom: 5pt;
 	}
 }
 
@@ -1127,27 +1231,27 @@ iframe.horizontal_web
 p.EmphasisBlockHeader
 {
 	border-left: solid 4px #f16e00;
-	padding-left: 12px;
 	font-family: Roboto;
 	font-size: 16px;
 	color: #202A3E;
 	margin-bottom: 0px;
-	margin-left: 26px;
 	padding-bottom: 4px;
+	padding-left: 16px;
+	margin-left: 0px;
 }
 
 p.EmphasisBlockBody
 {
 	border-left: solid 4px #f16e00;
-	padding-left: 12px;
 	font-family: Roboto;
 	font-size: 16px;
 	color: #202A3E;
-	margin-left: 26px;
 	padding-top: 0px;
 	margin-top: 0px;
 	padding-bottom: 2px;
 	line-height: 22px;
+	padding-left: 16px;
+	margin-left: 0px;
 }
 
 MadCap|dropDownHotspot.BodyContent
@@ -1174,5 +1278,32 @@ MadCap|dropDown.Vids_Last
 {
 	border-bottom: solid 1px #797f8b;
 	margin-bottom: 6px;
+}
+
+p.BodyBeforeList_GS
+{
+	font-size: 16px;
+	line-height: normal;
+	padding-bottom: 0px;
+	font-style: normal;
+	margin: 0;
+	color: #202A3E;
+	font-family: Roboto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	font-weight: bold;
+}
+
+ul.BulletList_GS
+{
+	font-size: 16px;
+	line-height: 0px;
+	padding-bottom: 0px;
+	margin: 6px 0px 0px -20px;
+	font-family: Roboto;
+	padding-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 0px;
 }
 
