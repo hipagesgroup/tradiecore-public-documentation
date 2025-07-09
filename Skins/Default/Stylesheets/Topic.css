@@ -852,11 +852,11 @@ div.MCBreadcrumbsBox_main-section_0
 	padding-bottom: 6px;
 }
 
-video._0
+video._Mobile_Vids_0
 {
 	display: inline-block;
-	max-width: auto;
-	max-height: auto;
+	height: 350px;
+	width: 200px;
 }
 
 .dropDownHotspot.dropDownHotspotBodyContent
@@ -902,7 +902,7 @@ video._0
 	font-family: Roboto;
 }
 
-video.object1
+video._0
 {
 	display: inline-block;
 	width: 339px;

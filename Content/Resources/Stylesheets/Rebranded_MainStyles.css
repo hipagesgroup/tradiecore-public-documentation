@@ -514,6 +514,12 @@ div.Columns-2 > div:nth-child(2)
 	width: 47%;
 }
 
+object.Mobile_Vids
+{
+	height: 350px;
+	width: 200px;
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
 [@media tablet] declares styles that will apply when the screen is in tablet view
@@ -638,6 +644,12 @@ Styles after this point are styles that are for specific mediums. If any additio
 	{
 		width: 100%;
 		margin-left: 0%;
+	}
+
+	object.Mobile_Vids
+	{
+		width: 200px;
+		height: 350px;
 	}
 }
 
