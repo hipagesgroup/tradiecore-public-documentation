@@ -852,6 +852,13 @@ div.MCBreadcrumbsBox_main-section_0
 	padding-bottom: 6px;
 }
 
+video._0
+{
+	display: inline-block;
+	max-width: auto;
+	max-height: auto;
+}
+
 .dropDownHotspot.dropDownHotspotBodyContent
 {
 	color: #202A3E;
@@ -895,11 +902,35 @@ div.MCBreadcrumbsBox_main-section_0
 	font-family: Roboto;
 }
 
-video._0
+video.object1
 {
 	display: inline-block;
 	width: 339px;
 	height: 385px;
+}
+
+@media only screen and (min-width: 1279px)
+{
+	.mc-responsive-content-exclude-web
+	{
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: 767px)  and (max-width: 1279px)
+{
+	.mc-responsive-content-exclude-tablet
+	{
+		display: none !important;
+	}
+}
+
+@media only screen and (max-width: 767px)
+{
+	.mc-responsive-content-exclude-mobile
+	{
+		display: none !important;
+	}
 }
 
 .MCWebHelpFramesetLink a

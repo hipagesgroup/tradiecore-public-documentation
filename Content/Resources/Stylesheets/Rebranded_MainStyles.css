@@ -596,6 +596,9 @@ Styles after this point are styles that are for specific mediums. If any additio
 	{
 		width: auto;
 		height: auto;
+		display: block;
+		float: left;
+		position: relative;
 	}
 
 	MadCap|dropDownHotspot.Heading_2
@@ -1236,8 +1239,8 @@ p.EmphasisBlockHeader
 	color: #202A3E;
 	margin-bottom: 0px;
 	padding-bottom: 4px;
-	padding-left: 16px;
 	margin-left: 0px;
+	padding-left: 12px;
 }
 
 p.EmphasisBlockBody
@@ -1250,8 +1253,8 @@ p.EmphasisBlockBody
 	margin-top: 0px;
 	padding-bottom: 2px;
 	line-height: 22px;
-	padding-left: 16px;
 	margin-left: 0px;
+	padding-left: 12px;
 }
 
 MadCap|dropDownHotspot.BodyContent
