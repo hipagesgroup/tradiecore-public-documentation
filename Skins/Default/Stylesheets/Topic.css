@@ -443,6 +443,13 @@ a.glossaryTerm
 	color: #f16e00;
 }
 
+video._Mobile_Vids_0
+{
+	display: inline-block;
+	height: 350px;
+	width: 200px;
+}
+
 div.MCBreadcrumbsBox_main-section_0
 {
 	border-bottom: none;
@@ -758,13 +765,6 @@ div.MCBreadcrumbsBox_main-section_0
 	background-image: url('arrow-right-hiOrange.png');
 	padding-left: 0px;
 	padding-right: 0;
-}
-
-video._Mobile_Vids_0
-{
-	display: inline-block;
-	height: 350px;
-	width: 200px;
 }
 
 .dropDown.dropDownNumList
