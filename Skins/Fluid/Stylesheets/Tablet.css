@@ -48,8 +48,8 @@
 		top: 50%;
 		transform: translateY(-50%);
 		display: block;
-		left: auto;
-		right: -13px;
+		left: -13px;
+		right: auto;
 	}
 
 	nav.title-bar
@@ -237,8 +237,8 @@
 		top: 50%;
 		transform: translateY(-50%);
 		margin: 0;
-		left: auto;
-		right: 35px;
+		left: 35px;
+		right: auto;
 	}
 
 	.title-bar-layout .central-account-wrapper
@@ -268,8 +268,8 @@
 
 	.central-dropdown-content
 	{
-		left: auto;
-		right: -25px;
+		left: -25px;
+		right: auto;
 		background-color: #ffffff;
 	}
 
