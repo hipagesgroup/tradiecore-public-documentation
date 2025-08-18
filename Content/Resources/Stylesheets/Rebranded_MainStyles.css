@@ -713,6 +713,10 @@ h1.BodyContent
 	font-size: 24px;
 	color: #202A3E;
 	font-family: Homie;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin: 0px 0px;
+	margin-bottom: 8px;
 }
 
 p.Body
@@ -732,6 +736,7 @@ p.Lvl1_BulList
 	padding-bottom: 2px;
 	color: #202A3E;
 	font-family: Roboto;
+	line-height: 22px;
 }
 
 p.Lvl2_List
@@ -799,16 +804,16 @@ p.Tip_Body
 p.BodyBeforeList
 {
 	font-size: 16px;
-	line-height: normal;
 	padding-bottom: 0px;
 	font-style: normal;
 	font-weight: normal;
 	margin: 0;
 	color: #202A3E;
-	margin-top: 4px;
 	font-family: Roboto;
 	margin-bottom: -3px;
-	padding-top: 3px;
+	margin-top: 2px;
+	padding-top: 2px;
+	line-height: 22px;
 }
 
 ul.BulletList
@@ -1223,6 +1228,7 @@ ul.NumList_BulletList
 	list-style-type: disc;
 	padding-right: 0px;
 	margin-left: 4px;
+	margin-top: 2px;
 }
 
 b.Note_Bold
@@ -1375,5 +1381,17 @@ ul.BulletList_GS
 	padding-top: 2px;
 	margin-bottom: 2px;
 	margin-left: 0px;
+}
+
+p.SectionHeader
+{
+	font-family: Homie;
+	font-size: 16px;
+	color: #202a3e;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin: 0px;
 }
 
