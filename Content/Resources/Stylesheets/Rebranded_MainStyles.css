@@ -1395,3 +1395,22 @@ p.SectionHeader
 	margin: 0px;
 }
 
+div.vimeo-wrapper
+{
+	position: relative;
+	/*aspect-ratio: 9 / 16;
+	padding-top: 177.78%;*/
+	height: 0px;
+	overflow: hidden;
+	width: 100%;
+	max-width: 50%;
+	margin: 0px;
+}
+
+iframe.vimeo-wrapper
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
