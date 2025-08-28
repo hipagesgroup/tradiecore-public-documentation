@@ -466,7 +466,8 @@ p.ComingUp
 	font-size: 16px;
 	margin-bottom: 0px;
 	padding-bottom: 0px;
-	background-color: #E8E9EB;
+	color: #202a3e;
+	background-color: #e8e9eb;
 }
 
 MadCap|dropDownHead
@@ -757,7 +758,6 @@ p.Body_Indented
 
 p.Note_Heading
 {
-	font-size: 14px;
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 	font-style: italic;
@@ -769,11 +769,11 @@ p.Note_Heading
 	font-weight: 500;
 	padding-top: 3px;
 	margin-top: 7px;
+	font-size: 16px;
 }
 
 p.Note_Body_Border
 {
-	font-size: 14px;
 	font-weight: normal;
 	font-style: italic;
 	margin-top: 0px;
@@ -785,6 +785,7 @@ p.Note_Body_Border
 	border-bottom: solid 1px #f16e00;
 	font-family: Roboto;
 	margin-bottom: 8px;
+	font-size: 16px;
 }
 
 p.Tip_Heading
@@ -857,7 +858,6 @@ img.Intro
 
 p.Note_Body
 {
-	font-size: 14px;
 	font-weight: normal;
 	font-style: italic;
 	margin-top: 0px;
@@ -869,6 +869,7 @@ p.Note_Body
 	line-height: normal;
 	color: #202A3E;
 	font-family: Roboto;
+	font-size: 16px;
 }
 
 ol.NumberedList
@@ -1334,6 +1335,8 @@ MadCap|dropDownHotspot.BodyContent
 {
 	color: #202A3E;
 	font-weight: bold;
+	mc-closed-image: url('../A_Images/Assets/Icons/Arrows/arrow-down-hiOrange.png');
+	mc-open-image: url('../A_Images/Assets/Icons/Arrows/arrow-up-hiOrange.png');
 }
 
 h2.BodyContent_Vids
@@ -1412,5 +1415,14 @@ iframe.vimeo-wrapper
 	position: absolute;
 	top: 0px;
 	left: 0px;
+}
+
+MadCap|dropDownHead.BodyContent
+{
+	mc-closed-image: url('../A_Images/Assets/Icons/Arrows/arrow-down-hiOrange.png');
+	mc-open-image: url('../A_Images/Assets/Icons/Arrows/arrow-up-hiOrange.png');
+	color: #202a3e;
+	font-size: 16px;
+	font-weight: bold;
 }
 
