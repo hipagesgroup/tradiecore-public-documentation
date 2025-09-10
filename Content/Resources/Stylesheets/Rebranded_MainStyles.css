@@ -1349,8 +1349,9 @@ h2.BodyContent_Vids
 	padding: 2px 0px 0px;
 	padding-top: 4px;
 	margin-top: 12px;
-	border-top: solid 1px #797f8b;
 	border-top-color: #797f8b;
+	border-top: none 2px #000000;
+	background: #e8e9eb;
 }
 
 MadCap|dropDown.Vids_Last
