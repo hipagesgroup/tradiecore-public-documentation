@@ -1351,7 +1351,7 @@ h2.BodyContent_Vids
 	margin-top: 12px;
 	border-top-color: #797f8b;
 	border-top: none 2px #000000;
-	background: #e8e9eb;
+	background: transparent;
 }
 
 MadCap|dropDown.Vids_Last
@@ -1425,5 +1425,10 @@ MadCap|dropDownHead.BodyContent
 	color: #202a3e;
 	font-size: 16px;
 	font-weight: bold;
+}
+
+div.body_vids
+{
+	background: #e8e9eb;
 }
 

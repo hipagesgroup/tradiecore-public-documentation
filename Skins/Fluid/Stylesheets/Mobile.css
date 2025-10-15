@@ -70,6 +70,11 @@
 		max-height: 200px;
 	}
 
+	.featured-snippets-container
+	{
+		
+	}
+
 	.central-dropdown
 	{
 		left: 35px;
@@ -293,11 +298,6 @@
 	.central-separator
 	{
 		background-color: #D5D8DA;
-	}
-
-	.featured-snippets-container
-	{
-		
 	}
 
 	.off-canvas-wrapper-inner nav.title-bar .outer-row
