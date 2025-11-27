@@ -3081,25 +3081,25 @@ html.pulseTopic.defaultSkin .main-section .row.outer-row
 
 ._Skins_HTML5___Top_Navigation ul.navigation ul
 {
-	background-color: #ffffff;
+	background-color: #797f8b;
 }
 
 ._Skins_HTML5___Top_Navigation ul.navigation ul a
 {
 	color: #202a3e;
 	font-family: Roboto;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: bold;
 }
 
 ._Skins_HTML5___Top_Navigation ul.navigation > li.has-children:after
 {
-	border-bottom-color: #ffffff;
+	border-bottom-color: #797f8b;
 }
 
 ._Skins_HTML5___Top_Navigation ul.navigation ul ul
 {
-	background-color: #ffffff;
+	background-color: #797f8b;
 }
 
 ._Skins_HTML5___Top_Navigation ul.navigation ul ul a
