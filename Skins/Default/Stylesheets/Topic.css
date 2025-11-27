@@ -430,19 +430,6 @@ a.glossaryTerm
 	opacity: 0;
 }
 
-.xref
-{
-	text-decoration: none;
-	font-weight: normal;
-	color: #8290F3;
-	font-family: Roboto;
-}
-
-.xref:hover
-{
-	color: #f16e00;
-}
-
 div.MCBreadcrumbsBox_main-section_0
 {
 	border-bottom: none;
@@ -542,6 +529,19 @@ div.MCBreadcrumbsBox_main-section_0
 	font-family: Homie;
 	font-size: 19px;
 	color: #202a3e;
+}
+
+.xref
+{
+	text-decoration: none;
+	font-weight: normal;
+	color: #8290F3;
+	font-family: Roboto;
+}
+
+.xref:hover
+{
+	color: #f16e00;
 }
 
 .img.imgIntro
