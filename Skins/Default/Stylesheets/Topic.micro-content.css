@@ -761,13 +761,6 @@
 	padding-right: 0;
 }
 
-.micro-response1841958632 video._Mobile_Vids_0
-{
-	display: inline-block;
-	height: 350px;
-	width: 200px;
-}
-
 .micro-response1841958632 .dropDown.dropDownNumList
 {
 	margin-left: 17px;
@@ -858,6 +851,13 @@
 .micro-response1841958632 .img.imgListImages_SmallImgs
 {
 	padding-bottom: 6px;
+}
+
+.micro-response1841958632 video._Mobile_Vids_0
+{
+	display: inline-block;
+	height: 350px;
+	width: 200px;
 }
 
 .micro-response1841958632 .dropDownHotspot.dropDownHotspotBodyContent
