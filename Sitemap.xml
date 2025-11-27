@@ -832,6 +832,12 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Play_45x45.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Play_Edited.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Play_Edited_24x24.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/QA_Button.png</loc>
     </url>
     <url>
@@ -1766,6 +1772,15 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_QuoteDescription/scripts/config_xml.js</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Sending/Quotes_V2_Sending.mp4</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Sending/Quotes_V2_Sending_player.html</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Sending/scripts/config_xml.js</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Create_Job.png</loc>
