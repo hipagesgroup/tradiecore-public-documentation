@@ -196,13 +196,10 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Quotes/Add_Cust_Info.htm</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Quotes/Add_Quote.htm</loc>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Quotes/Add_Quote_Old.htm</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Quotes/Adding_Deposits.htm</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Quotes/Copy of Add_Quote.htm</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Quotes/Create_Item.htm</loc>
@@ -832,12 +829,6 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Play_45x45.png</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Play_Edited.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Play_Edited_24x24.png</loc>
-    </url>
-    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/QA_Button.png</loc>
     </url>
     <url>
@@ -1300,9 +1291,6 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Add_Item_STP.png</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Blank_Quote_2.9.1.png</loc>
-    </url>
-    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Change_Tax_Rate_STP.png</loc>
     </url>
     <url>
@@ -1351,12 +1339,6 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/PrefilledDeetsQ_STP.png</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Quote_Approve_email.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Quote_Details.png</loc>
-    </url>
-    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Quote_Items_STP.png</loc>
     </url>
     <url>
@@ -1373,9 +1355,6 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Quotes_List_2.6_238x513.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Quotes_Section_2.9.1.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Quotes/Search_Customers_STP.png</loc>
@@ -1709,51 +1688,6 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Q&amp;I Settings/scripts/config_xml.js</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Adding-Items/Quotes_V2_Adding-Items.mp4</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Adding-Items/Quotes_V2_Adding-Items_player.html</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Adding-Items/scripts/config_xml.js</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_CreatingQuote/Quotes_V2_CreatingQuote.mp4</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_CreatingQuote/Quotes_V2_CreatingQuote_player.html</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_CreatingQuote/scripts/config_xml.js</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Deposit/Quotes_V2_Deposit.mp4</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Deposit/Quotes_V2_Deposit_player.html</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Deposit/scripts/config_xml.js</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_QuoteDescription/Quotes_V2_QuoteDescription.mp4</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_QuoteDescription/Quotes_V2_QuoteDescription_player.html</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_QuoteDescription/scripts/config_xml.js</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Sending/Quotes_V2_Sending.mp4</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Sending/Quotes_V2_Sending_player.html</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Quotes_V2_Sending/scripts/config_xml.js</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Create_Job.png</loc>
