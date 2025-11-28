@@ -853,6 +853,18 @@ div.MCBreadcrumbsBox_main-section_0
 	padding-bottom: 6px;
 }
 
+.dropDownHotspot.dropDownHotspotBodyContent
+{
+	color: #202A3E;
+	font-weight: bold;
+}
+
+.dropDownHotspot.dropDownHotspotBodyContent:link
+{
+	color: #202A3E;
+	font-weight: bold;
+}
+
 video._Mobile_Vids_0
 {
 	display: inline-block;
