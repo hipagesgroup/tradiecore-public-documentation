@@ -430,6 +430,13 @@ a.glossaryTerm
 	opacity: 0;
 }
 
+iframe.vimeo-player_0
+{
+	display: inline-block;
+	width: 560px;
+	height: 315px;
+}
+
 div.MCBreadcrumbsBox_main-section_0
 {
 	border-bottom: none;
