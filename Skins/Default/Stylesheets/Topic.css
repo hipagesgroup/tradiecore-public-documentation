@@ -430,11 +430,14 @@ a.glossaryTerm
 	opacity: 0;
 }
 
-iframe.vimeo-player_0
+iframe.vimeo-player_vimeo_0
 {
 	display: inline-block;
-	width: 560px;
 	height: 315px;
+	width: 560px;
+	margin-left: 0px;
+	margin: 0px;
+	padding: 0px;
 }
 
 div.MCBreadcrumbsBox_main-section_0
