@@ -438,6 +438,8 @@ iframe.vimeo-player_vimeo_0
 	margin-left: 0px;
 	margin: 0px;
 	padding: 0px;
+	float: left;
+	position: relative;
 }
 
 div.MCBreadcrumbsBox_main-section_0
