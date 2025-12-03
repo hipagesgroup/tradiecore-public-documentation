@@ -1204,6 +1204,7 @@ MadCap|dropDownBody.Lvl2
 	margin-top: 4px;
 	font-size: 16px;
 	font-family: Roboto;
+	margin-left: 17px;
 }
 
 MadCap|dropDownHotspot.FAQs_Lvl1
@@ -1220,6 +1221,8 @@ p.FAQ
 	margin: 0px;
 	font-family: Roboto;
 	line-height: 22px;
+	margin-left: 6px;
+	color: #202a3e;
 }
 
 h3.BodyContentFAQ

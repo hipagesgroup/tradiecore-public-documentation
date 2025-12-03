@@ -773,6 +773,13 @@ div.MCBreadcrumbsBox_main-section_0
 	padding-right: 0;
 }
 
+iframe.vimeo-player_0
+{
+	display: inline-block;
+	width: 560px;
+	height: 315px;
+}
+
 .dropDown.dropDownNumList
 {
 	margin-left: 17px;
@@ -828,14 +835,6 @@ div.MCBreadcrumbsBox_main-section_0
 	font-family: Roboto;
 }
 
-.dropDownBody.dropDownBodyLvl2
-{
-	line-height: normal;
-	margin-top: 4px;
-	font-size: 16px;
-	font-family: Roboto;
-}
-
 .dropDown.dropDownLvl2
 {
 	font-size: 14.5px;
@@ -858,6 +857,15 @@ div.MCBreadcrumbsBox_main-section_0
 	background-image: url('arrow-right-gray.png');
 	padding-left: 0px;
 	padding-right: 0;
+}
+
+.dropDownBody.dropDownBodyLvl2
+{
+	line-height: normal;
+	margin-top: 4px;
+	font-size: 16px;
+	font-family: Roboto;
+	margin-left: 17px;
 }
 
 .img.imgListImages_SmallImgs
