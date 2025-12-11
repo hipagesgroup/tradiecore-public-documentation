@@ -868,11 +868,6 @@ iframe.vimeo-player_0
 	padding-right: 0;
 }
 
-.img.imgListImages_SmallImgs
-{
-	padding-bottom: 6px;
-}
-
 .dropDownHotspot.dropDownHotspotBodyContent
 {
 	color: #202A3E;
@@ -890,6 +885,11 @@ video._Mobile_Vids_0
 	display: inline-block;
 	height: 350px;
 	width: 200px;
+}
+
+.img.imgListImages_SmallImgs
+{
+	padding-bottom: 6px;
 }
 
 @media only screen and (min-width: 1279px)
