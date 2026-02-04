@@ -136,9 +136,6 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Jobs/Photos&amp;Notes.htm</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Jobs/Photos&amp;Notes_Attachments.htm</loc>
-    </url>
-    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Jobs/Photos&amp;Notes_Captions.htm</loc>
     </url>
     <url>
@@ -745,6 +742,9 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Message_Template_Icon_STP.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Mic-Button.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/More_Actions_Button_2.4.png</loc>
     </url>
     <url>
@@ -839,6 +839,9 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/QA_Button.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Save-Icon.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Intro&amp;Common Images/Schedule Intro - 2.11.0.png</loc>
@@ -1021,6 +1024,12 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Add_Customer_PopUp.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Add-Attachments-JobDiary-3.4.0.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Add-Attachments-JobDiary-3.4.0_23x23.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Appointment - 2.11.0.png</loc>
     </url>
     <url>
@@ -1040,6 +1049,9 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Cancel-Job-2_2..8.4.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Completed-Note-3.4.0.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Delete_Note_STP.png</loc>
@@ -1075,37 +1087,28 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Job_Screen_2.20.0.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Job-Overview-Placeholder-3.3.0.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Job-Overview-Screen-Job-Diary-3.3.0.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Jobs L - 2.9.1.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Jobs L - 2.9.1_299x664.png</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/JobsDetails_Intro_2.15.0.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/JobsDetails_Intro_2.15.0_368x492.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/JobsL_2.8.4.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/JobsL_2.8.4_238x513.png</loc>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Jobs-List-3.3.0.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/New_Job_2.15.0.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/New_Note_2.3.4.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/NewJob_STP.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/NewJob_STP_208x449.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Note_Image_Upload_STP.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Notify_Me_2.25.0.png</loc>
@@ -1135,12 +1138,6 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Photos_More_Menu_STP.png</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Photos_Notes_2.3.4.png</loc>
-    </url>
-    <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Photos_Notes_2.3.4_153x476.png</loc>
-    </url>
-    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Photos_Notes_Download.png</loc>
     </url>
     <url>
@@ -1151,6 +1148,12 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/PhotosNotes_2.7.0.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/PLACEHOLDER-Add-Attachment-3.4.0.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/PLACEHOLDER-Add-Edit-Note-3..4.0.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Jobs/Quick_Actions_2.8.4.png</loc>
