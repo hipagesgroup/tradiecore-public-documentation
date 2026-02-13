@@ -1222,7 +1222,8 @@ p.FAQ
 	font-family: Roboto;
 	line-height: 22px;
 	color: #202a3e;
-	margin-left: -5px;
+	margin-left: 0px;
+	padding-bottom: 6px;
 }
 
 h3.BodyContentFAQ
