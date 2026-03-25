@@ -136,6 +136,9 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Jobs/Jobs_Intro.htm</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Jobs/Job-Sort-Filters.htm</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Jobs/Message_Customer.htm</loc>
     </url>
     <url>
@@ -1201,9 +1204,6 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Leads/Job-not-as-described-3.4.0.png</loc>
     </url>
     <url>
-        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Leads/Lead_Confirmation_2.25.0.png</loc>
-    </url>
-    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Leads/Lead_Report_Icon_2.4.png</loc>
     </url>
     <url>
@@ -1250,6 +1250,9 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Leads/Leads_View_Menu.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Leads/Lead-to-Estimates.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/A_Images/Leads/List_View.png</loc>
