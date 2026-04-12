@@ -7,7 +7,9 @@ metadata:
   annotations:
     github.com/project-slug: hipagesgroup/tradiecore-public-documentation
     github.com/team-slug: job-management-experience
-    hipages/use-techdocs-of: system:tradiecore
+    backstage.io/techdocs-entity: system:default/tradiecore
+  tags:
+    - repo
 spec:
   type: documentation
   lifecycle: production
