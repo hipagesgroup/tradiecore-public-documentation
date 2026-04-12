@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tradiecore-public-documentation
+  title: "Tradiecore Public Documentation"
+  description: Tradiecore public documentation
+  annotations:
+    github.com/project-slug: hipagesgroup/tradiecore-public-documentation
+    github.com/team-slug: job-management-experience
+    backstage.io/techdocs-entity: system:default/tradiecore
+  tags:
+    - repo
+spec:
+  type: documentation
+  lifecycle: production
+  system: tradiecore
+  owner: job-management-experience

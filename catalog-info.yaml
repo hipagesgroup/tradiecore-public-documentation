@@ -1,12 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Location
 metadata:
   name: tradiecore-public-documentation
-  description: Tradiecore public documentation
-  annotations:
-    github.com/project-slug: hipagesgroup/tradiecore-public-documentation
+  description: Applications managed within the tradiecore-public-documentation repo.
 spec:
-  type: documentation
-  lifecycle: production
-  system: tradiecore
-  owner: job-management-experience
+  targets:
+    - ./catalog/*.yaml
+    - ./catalog/**/*.yaml
