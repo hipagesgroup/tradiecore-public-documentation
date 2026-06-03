@@ -54,7 +54,7 @@ xmlFullTocData += '        <TocEntry Title=\"Sending and managing rebook request
 xmlFullTocData += '        <TocEntry Title=\"Jobs FAQs\" Link=\"/Content/A_FAQs/MasterList_FAQ.htm#Jobs\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '    </TocEntry>';
 xmlFullTocData += '    <TocEntry Title=\"Quotes\" Link=\"/Content/A_Quotes/Quotes_Intro.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"13\">';
-xmlFullTocData += '        <TocEntry Title=\"Creating a quote manually\" Link=\"/Content/A_Quotes/Copy of Add_Quote.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Creating a quote manually\" Link=\"/Content/A_Quotes/Add-Quote.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Creating and sending smart quotes\" Link=\"/Content/A_Quotes/Smart-Quote.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Creating a new item\" Link=\"/Content/A_Quotes/Create_Item.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Adding customer information\" Link=\"/Content/A_Quotes/Add_Cust_Info.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
