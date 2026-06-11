@@ -26,7 +26,7 @@ xmlFullTocData += '    <TocEntry Title=\"Leads\" Link=\"/Content/A_Leads/Leads_I
 xmlFullTocData += '        <TocEntry Title=\"Accepting leads\" Link=\"/Content/A_Leads/Accept_Leads.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Changing your lead view\" Link=\"/Content/A_Leads/Change_Lead_View.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Accepting Today\'s deals\" Link=\"/Content/A_Leads/Todays_Deals.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
-xmlFullTocData += '        <TocEntry Title=\"Viewing waitlists\" Link=\"/Content/A_Leads/Viewing_Waitlists.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Waitlisting leads\" Link=\"/Content/A_Leads/Viewing_Waitlists.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Declining Leads\" Link=\"/Content/A_Leads/Declining_Leads.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Reporting a lead in-app\" Link=\"/Content/A_Leads/Lead_Reporting.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
 xmlFullTocData += '        <TocEntry Title=\"Lead Review Process\" Link=\"/Content/A_Leads/Lead_Review_Process.htm\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
