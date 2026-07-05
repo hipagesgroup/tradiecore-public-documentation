@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: tradiecore-public-documentation
-  description: Applications managed within the tradiecore-public-documentation repo.
+  description: Catalog entities for tradiecore-public-documentation.
 spec:
   targets:
     - ./catalog/**/*.yaml

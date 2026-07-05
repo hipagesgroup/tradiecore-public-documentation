@@ -10,6 +10,8 @@ metadata:
     backstage.io/techdocs-entity: system:default/tradiecore
   tags:
     - repo
+    - documentation
+    - madcap-flare
   links:
     - url: https://help-app.hipages.com.au
       title: Published Documentation Site
