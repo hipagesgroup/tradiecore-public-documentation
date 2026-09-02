@@ -49,6 +49,9 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Introduction Topics/Getting Started_Intro.htm</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Introduction Topics/ID-Checks.htm</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Introduction Topics/Log_In.htm</loc>
     </url>
     <url>
@@ -350,6 +353,15 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Settings/My_Package/Subscription_Invoices.htm</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Settings/My-Team/MT_Accept-Invite.htm</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Settings/My-Team/MT_Intro.htm</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Settings/My-Team/MT_Removing.htm</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/A_Settings/Notifications/Account-notifications.htm</loc>
@@ -1765,6 +1777,12 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/Videos/Business Profile/Business Profile_SP/Business Profile_SP.mp4</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Add-new-user.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Add-new-user_84x25.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Create_Job.png</loc>
     </url>
     <url>
@@ -1772,6 +1790,9 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Delete.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Delete_20x20.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/My-Business-Icon.png</loc>
@@ -1783,7 +1804,22 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Preview_26x26.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Send-Invitation.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Send-Invitation_91x26.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Settings_Icon.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Settings_Icon_25x25.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Icons &amp; Buttons/Tick-button.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Intro/hptc Web_Login.png</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Invoices/Beta Updated - Add Invoice.png</loc>
@@ -1903,6 +1939,21 @@
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/LS-Licences-Add.png</loc>
     </url>
     <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/MU_Permissions.gif</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/Multi-user_Confirmation.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/Multi-user_Delete-user.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/Multi-user_Go to aoount.png</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/My Team Listing.png</loc>
+    </url>
+    <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/Resources/W - Images/Settings/Notification-Preferences-Account-4.2.png</loc>
     </url>
     <url>
@@ -1946,6 +1997,12 @@
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/W - Quotes/Quotes_Intro.htm</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/W - Settings/My-Team/MT_Accept-Invite.htm</loc>
+    </url>
+    <url>
+        <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Content/W - Settings/My-Team/MT_Removing.htm</loc>
     </url>
     <url>
         <loc>https://hipagesgroup.github.io/tradiecore-public-documentation/Content/hipagestradiecoreHome/Default.htm</loc>
