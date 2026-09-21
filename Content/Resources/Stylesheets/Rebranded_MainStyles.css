@@ -1496,3 +1496,17 @@ ul.BulletList-Note
 	margin-left: -17px;
 }
 
+p.EmphasisBlockBody_TopSpace
+{
+	border-left: solid 4px #f16e00;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #202A3E;
+	padding-bottom: 2px;
+	line-height: 22px;
+	margin-left: 0px;
+	padding-left: 12px;
+	padding-top: 3px;
+	margin-top: 2px;
+}
+
