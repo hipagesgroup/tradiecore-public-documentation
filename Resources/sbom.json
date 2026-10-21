@@ -299,7 +299,7 @@
     {
       "type": "library",
       "name": "DOMPurify",
-      "version": "3.2.6",
+      "version": "3.4.3",
       "author": "Dr.-Ing. Mario Heiderich, Cure53",
       "licenses": [
         {
@@ -320,7 +320,7 @@
         },
         {
           "type": "license",
-          "url": "https://github.com/cure53/DOMPurify/blob/3.2.6/LICENSE"
+          "url": "https://github.com/cure53/DOMPurify/blob/3.4.3/LICENSE"
         }
       ]
     }
